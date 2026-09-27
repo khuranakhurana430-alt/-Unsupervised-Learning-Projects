@@ -1,0 +1,20 @@
+Column Name,Data Type,Non-Null Count
+case_name,object,10002
+question,object,10002
+answer,object,10002
+judgement_date,datetime64[ns],749
+judgement_year,int64,10002
+judgement_month,int64,10002
+judgement_day,int64,10002
+judgement_day_of_week,int64,10002
+question_length,int64,10002
+answer_length,int64,10002
+case_name_length,int64,10002
+question_word_count,int64,10002
+answer_word_count,int64,10002
+case_name_word_count,int64,10002
+has_reference_pdf,int64,10002
+judgement_quarter,int64,10002
+is_weekend,int64,10002
+answer_question_length_ratio,float64,10002
+answer_question_word_count_ratio,float64,10002
